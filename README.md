@@ -43,7 +43,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/snake.svg" alt="Snake animation" />
+<!-- Exibição da animação Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
