@@ -4,7 +4,7 @@ on:
   schedule: # Executa a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch: # Permite execução manual
-  push: # Executa ao realizar push na branch master/main
+  push: # Executa ao realizar push na branch main/master
     branches:
       - main
       - master
