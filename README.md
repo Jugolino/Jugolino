@@ -10,7 +10,8 @@
 
 ---
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="150" alt="Funny Hacker GIF" />
+<!-- GIF lateral (Musashi - Vagabond) -->
+<img align="right" src="https://media1.tenor.com/m/haG5O_INyZoAAAAd/musashi-vagabond.gif" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
 
 ### 🛠️ Technologies & Tools
 
@@ -41,6 +42,14 @@
 
 ---
 
+### 🐍 Snake Contribution Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🎧 Recently Played on Spotify
 
 <div align="center">
@@ -56,3 +65,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Jugolino/count.svg?" alt="Visitor Counter" />
 </div>
+
