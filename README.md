@@ -41,14 +41,6 @@
 
 ---
 
-### 🐍 Snake Contribution Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🎧 Recently Played on Spotify
 
 <div align="center">
