@@ -10,8 +10,8 @@
 
 ---
 
-<!-- GIF lateral (Musashi - Vagabond) -->
-<img align="right" src="[https://media1.tenor.com/m/haG5O_INyZoAAAAd/musashi-vagabond.gif](https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif)" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
+<!-- GIF lateral (Musashi - Vagabond atualizado) -->
+<img align="right" src="https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
 
 ### 🛠️ Technologies & Tools
 
@@ -38,14 +38,6 @@
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
-</div>
-
----
-
-### 🐍 Snake Contribution Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
