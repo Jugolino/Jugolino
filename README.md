@@ -11,7 +11,7 @@
 ---
 
 <!-- GIF lateral (Musashi - Vagabond) -->
-<img align="right" src="https://media1.tenor.com/m/haG5O_INyZoAAAAd/musashi-vagabond.gif" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
+<img align="right" src="[https://media1.tenor.com/m/haG5O_INyZoAAAAd/musashi-vagabond.gif](https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif)" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
 
 ### 🛠️ Technologies & Tools
 
