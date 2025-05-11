@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hey there, I'm Guilherme Oliveira!</h2>
-<p align="left">🔐 I'm a cybersecurity enthusiast from Brazil, passionate about technology, ethical hacking, and secure coding practices. I love exploring how things work under the hood and constantly seek new ways to level up my technical skills.</p>
+<p align="left">🔐 Blue Team | Information Security </p>
 
 ---
 
