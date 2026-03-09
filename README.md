@@ -138,19 +138,13 @@ ExifTool • Lynis • Volatility • MISP
 ---
 
 # 🐍 Contribution Snake
-<picture>
-  <!-- dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jugolino/Jugolino/output/github-contribution-grid-snake-dark.svg">
-
-  <!-- light mode -->
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jugolino/Jugolino/output/github-contribution-grid-snake.svg">
-
-  <!-- fallback -->
-
-<img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/github-contribution-grid-snake.svg"> </picture>
-    
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/examples/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/examples/github-light.svg">
+    <img alt="Snake eating contributions" src="./assets/examples/github-dark.svg" width="100%">
+  </picture>
+</p>
 ---
 
 
