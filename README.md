@@ -138,6 +138,7 @@ ExifTool • Lynis • Volatility • MISP
 ---
 
 # 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/examples/github-dark.svg">
@@ -145,6 +146,7 @@ ExifTool • Lynis • Volatility • MISP
     <img alt="Snake eating contributions" src="./assets/examples/github-dark.svg" width="100%">
   </picture>
 </p>
+
 ---
 
 
