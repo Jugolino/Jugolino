@@ -1,63 +1,86 @@
-<h2 align="left">👋 Hey there, I'm Guilherme Oliveira!</h2>
-<p align="left">🔐 Blue Team | Information Security </p>
+<h1 align="center">👋 Hello, I'm Guilherme Oliveira</h1>
+
+<p align="center">
+🔐 Cybersecurity Student | Digital Forensics | Threat Intelligence | Pentesting
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jugolino&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jugolino&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jugolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugolino&layout=compact&langs_count=7&theme=dracula"/>
+
+</p>
 
 ---
 
-<!-- Musashi GIF -->
-<img align="right" src="https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif" height="180" alt="Musashi Vagabond" style="border-radius: 10px;" />
+## 🔥 Streak Stats
 
-### 🛠️ Tech Stack
+<p align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-</div>
+<img src="https://streak-stats.demolab.com?user=Jugolino&theme=dracula"/>
+
+</p>
 
 ---
 
-### 📚 Currently Learning
+## 🏆 GitHub Trophies
 
-- Offensive Security and Penetration Testing
-- Ethical Hacking with Python and Bash scripting
-- Network Security (Firewall, WAF, IDS/IPS)
-- Tools: Metasploit, Wireshark, Burp Suite
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Jugolino&theme=dracula&no-frame=true&margin-w=10"/>
 
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.instagram.com/gu1lherme_oliveira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-6b6992276" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-</div>
+</p>
 
 ---
 
-### 🎧 Spotify – What I'm Listening To
+<img align="right" height="180" src="https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif"/>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31x53yb7dnlsaw6brwa24zvcakku">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x53yb7dnlsaw6brwa24zvcakku&count=5&width=600" alt="Spotify Recently Played" />
-  </a>
-</div>
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+
+</p>
+
+---
+
+## 🔐 Security Tools
+
+Wireshark • Nmap • Burp Suite • Metasploit
+ExifTool • Lynis • Volatility • MISP
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/guilherme-oliveira-6b6992276">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/gu1lherme_oliveira">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Jugolino/Jugolino/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
