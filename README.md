@@ -1,80 +1,98 @@
-<h1 align="center">👋 Hello, I'm Guilherme Oliveira</h1>
+<div align="center">
 
-<p align="center">
-🔐 Cybersecurity Student | Digital Forensics | Threat Intelligence | Pentesting
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Guilherme+Oliveira;Cybersecurity+Student;Digital+Forensics+%7C+Threat+Intelligence;Pentesting+%7C+Network+Security;Welcome+to+my+GitHub" />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jugolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugolino&layout=compact&langs_count=7&theme=dracula"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 Streak Stats
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jugolino&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://streak-stats.demolab.com?user=Jugolino&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugolino&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jugolino&theme=dracula&no-frame=true&margin-w=10"/>
-
-</p>
+</div>
 
 ---
 
-<img align="right" height="180" src="https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif"/>
+<div align="center">
 
-## 🛠 Tech Stack
+<img src="https://streak-stats.demolab.com?user=Jugolino&theme=radical&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<img align="right" height="200" src="https://media1.tenor.com/m/vb1zYZDr5AMAAAAd/musashi-vagabond.gif"/>
+
+# ⚡ CYBERSECURITY
+
+```bash
+> whoami
+
+Guilherme Oliveira
+Cybersecurity Student
+Digital Forensics
+Threat Intelligence
+Pentesting
+Network Analysis
+```
+
+---
+
+# 🛠 TECH STACK
 
 <p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,mysql"/>
 
 </p>
 
 ---
 
-## 🔐 Security Tools
+# 🔐 SECURITY TOOLS
 
-Wireshark • Nmap • Burp Suite • Metasploit
-ExifTool • Lynis • Volatility • MISP
+<p>
+
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Volatility-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MISP-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 CONNECT
+
+<p>
 
 <a href="https://www.linkedin.com/in/guilherme-oliveira-6b6992276">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/gu1lherme_oliveira">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
+
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🎧 SPOTIFY
+
+<p align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31x53yb7dnlsaw6brwa24zvcakku&count=5"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -84,8 +102,11 @@ ExifTool • Lynis • Volatility • MISP
 
 ---
 
-### 👁️ Visitor Counter
-
 <div align="center">
+
+<img src="https://profile-counter.glitch.me/Jugolino/count.svg"/>
+
+</div>
+
   <img src="https://profile-counter.glitch.me/Jugolino/count.svg?" alt="Visitor Counter" />
 </div>
