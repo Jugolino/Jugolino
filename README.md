@@ -153,8 +153,5 @@ ExifTool • Lynis • Volatility • MISP
     
 ---
 
-<div align="center">
-
-<img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"](https://raw.githubusercontent.com/Jugolino/Jugolino/output/github-contribution-grid-snake.svg)/>
 
 </div>
