@@ -1,5 +1,5 @@
 
-<br></br><h1 align="center">👋 Hello, I'm Guilherme Oliveira</h1>
+<h1 align="center"> Hello, I'm Guilherme Oliveira</h1>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-oliveira-6b6992276)
 [![My Blog](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://jugolino.github.io)
