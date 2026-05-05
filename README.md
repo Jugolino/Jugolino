@@ -11,7 +11,7 @@
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,php,js,docker,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,php,js,docker,arch&perline=5)](https://skillicons.dev)
 
 
     
