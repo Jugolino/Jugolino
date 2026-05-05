@@ -5,7 +5,7 @@
 [![My Blog](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)](https://jugolino.github.io)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=11F72D&width=435&lines=Exploit+Today+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72A1C&width=435&lines=I'm+free)](https://git.io/typing-svg)
 
 
 
