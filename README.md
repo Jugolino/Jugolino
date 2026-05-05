@@ -7,14 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72A1C&width=435&lines=I'm+free)](https://git.io/typing-svg)
 
-
-
-### My skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,php,js)](https://skillicons.dev)
-
-
- 
 # 🎧 Spotify
 
 <div align="center">
