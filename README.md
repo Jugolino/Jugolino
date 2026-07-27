@@ -7,14 +7,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72A1C&width=435&lines=I'm+free)](https://git.io/typing-svg)
 
-# 🎧 Spotify
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/31x53yb7dnlsaw6brwa24zvcakku">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31x53yb7dnlsaw6brwa24zvcakku&count=5&width=600"/>
-
-</a>
-
 </div>
